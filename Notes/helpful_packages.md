@@ -8,3 +8,4 @@
 - [pytest](https://docs.pytest.org/en/stable/): lib for easy test definition and execution 
 ## Security
 - [bandit](https://bandit.readthedocs.io/en/latest/): Package that tests for known vulnerabilities
+- [safety](https://pypi.org/project/safety/): Scans the dependencies to fing packages with known vulnerabilities. Runs in CLI & GitHub Actions
