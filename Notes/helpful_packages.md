@@ -1,5 +1,7 @@
 # Memory-list of useful Python packages and tools
 ![Static Badge](https://img.shields.io/badge/shields-io-green)
+## General
+- [pipenv](https://pipenv.pypa.io/en/latest/quick_start.html): Package & virtual environment manager
 ## Codestyle
 - [black](https://pypi.org/project/black/): Uncompromising Code Formatter for better readability
 - [isort](https://pycqa.github.io/isort/): Formatting imports in code for better readability
